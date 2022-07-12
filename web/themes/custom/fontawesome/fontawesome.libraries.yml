@@ -1,0 +1,16 @@
+# fontawesome.libraries.yml
+bootstrap5:
+  version: '5.0.2'
+  js:
+    dist/bootstrap/5.0.2/dist/js/bootstrap.bundle.min.js: { minified: true }
+  dependencies:
+    - core/jquery
+
+  css:
+    theme:
+      css/style.css: {}
+
+styles:
+  css:
+    theme:
+      css/styles.css: {}
