@@ -1,1 +1,5 @@
 /vendor/
+/web/modules/contrib/
+/web/themes/contrib/
+/web/libraries/
+/web/core/
